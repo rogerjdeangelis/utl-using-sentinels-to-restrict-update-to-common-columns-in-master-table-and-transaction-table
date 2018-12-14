@@ -3,7 +3,7 @@ Restrict update to common columns in master table ana transaction table
 
     Problem: Using sentinels to restrict update to common columns in master table ana transaction table                  
                                                                                                                          
-    This is a useful 'out of the box' technique originally by Mike Keintz.                                               
+    This is a useful 'out of the box' technique originally by Mike Keintz and Paul Dorfman.                                               
     This techniques has mamy PDV restructuring applications.   
     
     Good Catch by Mark  (see more details on end)                                                                                                                                                                                                                            
