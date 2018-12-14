@@ -3,7 +3,8 @@ Problem: Using sentinels to restrict update to common columns in master table an
 This is a useful 'out of the box' technique originally by Mike Keintz and Paul Dorfman.                                          
 This techniques has mamy PDV restructuring applications.      
 
-Good Catch by Mark                                                                                               
+Good Catch by Mark  (see more details on end)
+
 I first got the notion of using SENTINEL variables as PDV location markers from a posting by Paul Dorfman,       
 but I believe the objective was something other than generating a data set of common variables.                  
 And actually the term COMMON is a bit misleading in my code that you sent out.                                   
